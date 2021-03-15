@@ -23,3 +23,6 @@ os.system('pip install pygame')
 
 ststic analysis -
 https://stackoverflow.com/questions/2028268/invoking-pylint-programmatically
+
+lark api
+https://open.feishu.cn/document/ukTMukTMukTM/uUjNz4SN2MjL1YzM
